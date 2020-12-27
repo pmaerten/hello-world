@@ -2,4 +2,4 @@
 tutorial
 this is my first edition in github
 and use of this text editor
-justo try the functionnalities
+this is just to try the functionnalities
